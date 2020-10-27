@@ -1,0 +1,20 @@
+{
+    "Author": "cmendibl3",
+    "ContentSize": 2573,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-analysis-services-backup/master/Backup-AnalysisServices.ps1",
+    "DownloadCount": 1535,
+    "Id": "Azure-Analysis-Backup-a06df3ad",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 280,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-10-17T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Backup-AnalysisServices is a simple PowerShell workflow runbook that will help you automate the process of backing up an Azure Analysis Service Database.\u00a0The script receives 5 parameters:ResourceGroupName: The name of the resource group where the cluster resides\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u00a0 Automati",
+    "Title": "Azure Analysis Services: Backup",
+    "UpdatedDate": "2017-10-17T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-analysis-services-backup",
+    "UserTags": "Powershell, backup, Analysis Services"
+}
