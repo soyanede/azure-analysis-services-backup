@@ -70,5 +70,6 @@ workflow Backup-AnalysisServices {
         –backupfile ("backup." + (Get-Date).ToString("yyMMdd") + ".abf") `
         –name $AnalysisServiceDatabase `
         -server $AnalysisServiceServer `
+        -ServicePrincipal `
         -Credential $cred
 }
